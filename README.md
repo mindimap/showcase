@@ -1,61 +1,52 @@
-# MindiMap
+# MindiMap — AI-Powered Mind Maps, Flowcharts & Gantt Charts
 
-**AI-powered mind maps, flowcharts, tasks, and Gantt charts -- built for the world, with full RTL (Persian and Arabic) support.**
+🌐 **Official Website:** [https://mindimap.com](https://mindimap.com)  
+🚀 **Launch App:** [https://mindimap.com/app](https://mindimap.com/app)  
+🎥 **Watch Demo:** [Loom Video](https://www.loom.com/share/081675d8aca048fa8adbf2ed0ff6a821)
 
-🌐 **Languages:** [English](README.md) | [فارسی](README.fa.md) | [العربية](README.ar.md) | [Русский](README.ru.md) | [Türkçe](README.tr.md) | [中文](README.zh.md)
-
-[Try MindiMap free](https://mindimap.com/app/) | [Watch the 2-minute demo](https://www.loom.com/share/081675d8aca048fa8adbf2ed0ff6a821) | [Pricing](https://mindimap.com/#pricing)
+[English](README.md) | [فارسی](README.fa.md) | [العربية](README.ar.md) | [Русский](README.ru.md) | [Türkçe](README.tr.md) | [中文](README.zh.md)
 
 ---
+
+<p align="center">
+  <img src="screenshots/hero.gif" alt="MindiMap AI generating a mind map" width="450" />
+</p>
 
 ## What is MindiMap?
 
-MindiMap is a browser-based visual thinking suite. It combines **mind maps**, **flowcharts**, **task management**, and **Gantt charts** in one editor, with an AI assistant that generates full diagrams from a single sentence. No installs, no plugins. Works offline. Ships in **9 languages** with full right-to-left support.
+MindiMap is a browser-based AI diagramming and visual thinking suite. It combines **Mind Maps**, **Flowcharts**, **Task Management**, and **Gantt Charts** into a single, seamless workspace. 
 
-<img src="screenshots/hero.gif" alt="MindiMap AI generating a mind map" width="320" />
+Unlike traditional tools, MindiMap features an integrated AI assistant that generates complete project structures—from nodes and branches to detailed timeline dependencies—from a single text prompt. It requires zero installation, works offline, and is the world's first visual tool with native, full **RTL (Right-to-Left)** support for Persian and Arabic.
 
----
+## Why choose MindiMap over competitors?
+
+| Feature | **MindiMap** | Miro | XMind | SimpleMind |
+|---|---|---|---|---|
+| **Built-in AI (No OpenAI account)** | ✅ Included | ❌ Plugin required | ❌ No | ❌ No |
+| **Gantt Charts & Timelines** | ✅ Native | ❌ Board only | ❌ No | ❌ No |
+| **Full RTL (Persian/Arabic)** | ✅ First-class | ⚠️ Partial | ❌ No | ❌ No |
+| **Pay with Crypto** | ✅ BTC & USDT | ❌ Cards only | ❌ Cards only | ❌ Cards only |
+| **Works Offline (PWA)** | ✅ Yes | ❌ No | ⚠️ Desktop | ⚠️ Desktop |
 
 ## The Core Tools
 
 ### 🧠 Mind Maps
-Radial or tree layouts. Perfect for brainstorming, planning, and note-taking. AI can generate a full hierarchy from a single prompt.
+Radial or tree layouts perfect for brainstorming, project planning, and taking notes. AI can generate a full hierarchy from a single prompt.
 
 ### 📊 Flowcharts
-8 shape types, arrowheads, yes/no labels, loop-backs, and merge nodes. Design algorithms and processes visually.
+Design algorithms and processes visually with 8 shape types, arrowheads, yes/no labels, loop-backs, and merge nodes.
 
-### ☑ Tasks
-Same tree layout, but every node is a task with a checkbox and a live progress bar.
+### ☑ Task Management
+Visual checklists where every node is a task with a checkbox and a live progress bar.
 
 ### 📅 Gantt Charts
-Full project timelines with dependencies and milestones. Turn your mind map into a timeline instantly using AI. Built for company reporting and thesis presentations.
+Full project timelines with milestones and dependencies. Instantly convert your mind map into a timeline using AI. Perfect for company reporting and thesis presentations.
 
----
+## AI Capabilities
+- **Create from scratch:** Generate mind maps, flowcharts, or Gantt charts from a single sentence.
+- **Smart improve:** Add, remove, or restructure existing nodes while preserving your custom notes, icons, and colors.
 
-## How the AI Helps You
-
-MindiMap's AI is not a wrapper around ChatGPT. It runs on our servers using a model fine-tuned for visual structure.
-
-- **Create a mind map** from a project description.
-- **Create a flowchart** from an algorithm or process.
-- **Create a Gantt chart** from a high-level project plan with real dates and dependencies.
-- **Improve an existing map** by adding, removing, or restructuring nodes while preserving your notes and colors.
-
----
-
-## Why MindiMap?
-
-| Feature | MindiMap | Other Tools |
-|---|---|---|
-| **Built-in AI** | Yes | Plugin only |
-| **Gantt charts** | Native | Board only |
-| **Full RTL** | First-class | Partial |
-| **Crypto payments** | BTC & USDT | Cards only |
-| **Offline mode** | Yes | No |
-
----
-
-## Tech Stack
+## Tech Stack (High-Level)
 
 | Layer | Technology |
 |---|---|
@@ -64,24 +55,15 @@ MindiMap's AI is not a wrapper around ChatGPT. It runs on our servers using a mo
 | Payments | Bitcoin, USDT, and card processing |
 | Hosting | Managed shared hosting with CDN |
 
-**Source code is proprietary.** This repository is a showcase.
-
----
+*Source code is proprietary. This repository is a showcase, not the full codebase.*
 
 ## Pricing
+- **Free:** 2 AI lifetime runs.
+- **Bronze:** $5.99 (60 AI runs).
+- **Silver:** $6.99 (150 AI runs).
+- **Gold:** $17.99 (400 AI runs).
 
-| Plan | Price | AI Runs |
-|---|---|---|
-| **Free** | $0 | 2 lifetime |
-| **Bronze** | $5.99 / 30 days | 60 |
-| **Silver** | $6.99 / 30 days | 150 |
-| **Gold** | $17.99 / 90 days | 400 |
-
-Pay with **Bitcoin**, **USDT (TRC-20)**, or international cards.
-
-[See full pricing](https://mindimap.com/#pricing)
+Pay with **Bitcoin**, **USDT (TRC-20)**, or international cards via YekPay.
 
 ---
-
-## License
-Proprietary. All rights reserved.
+**Keywords:** mind map, mindmap, flowchart maker, gantt chart, ai diagram generator, visual thinking, brainstorming tool, miro alternative, xmind alternative, rtl mind map, persian mind map, arabic mind map, task management, productivity.

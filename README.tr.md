@@ -1,70 +1,37 @@
-# MindiMap
+# MindiMap — Yapay Zeka Destekli Zihin Haritaları ve Gantt Şemaları
 
-**Yapay zeka destekli zihin haritaları, akış şemaları, görev yönetimi ve Gantt şemaları — tam RTL desteğiyle.**
+🌐 **Web Sitesi:** [https://mindimap.com](https://mindimap.com)  
+🚀 **Uygulama:** [https://mindimap.com/app](https://mindimap.com/app)  
 
-🌐 **Diller:** [English](README.md) | [فارسی](README.fa.md) | [العربية](README.ar.md) | [Русский](README.ru.md) | [Türkçe](README.tr.md) | [中文](README.zh.md)
-
-[Ücretsiz Deneyin](https://mindimap.com/app/) | [Demoyu İzle](https://www.loom.com/share/081675d8aca048fa8adbf2ed0ff6a821) | [Fiyatlar](https://mindimap.com/#pricing)
+[English](README.md) | [فارسی](README.fa.md) | [العربية](README.ar.md) | [Русский](README.ru.md) | [Türkçe](README.tr.md) | [中文](README.zh.md)
 
 ---
+
+<p align="center">
+  <img src="screenshots/hero.gif" alt="MindiMap Yapay Zekası" width="450" />
+</p>
 
 ## MindiMap Nedir?
-
-MindiMap, tarayıcı tabanlı bir görsel düşünme aracıdır. Zihin haritalarını, akış şemalarını, görev yönetimini ve Gantt şemalarını tek bir editörde birleştirir. Yapay zeka asistanı, tek bir cümleden tam diyagramlar oluşturur. Çevrimdışı çalışır. 9 dili destekler.
-
-<img src="screenshots/hero.gif" alt="MindiMap Yapay Zekası" width="320" />
-
----
+MindiMap, yapay zeka destekli bir görsel düşünme aracıdır. Zihin haritalarını, akış şemalarını, görev yönetimini ve Gantt şemalarını tek bir editörde birleştirir.
 
 ## Temel Araçlar
-
 ### 🧠 Zihin Haritaları
-Radyal veya ağaç düzenleri. Beyin fırtınası ve planlama için mükemmel.
+Beyin fırtınası ve planlama için radyal veya ağaç düzenleri.
 
 ### 📊 Akış Şemaları
-8 şekil türü, oklar, Evet/Hayır etiketleri ve döngüler. Algoritmaları görsel olarak tasarlayın.
+Algoritmaları görsel olarak tasarlayın.
 
 ### ☑ Görevler
-Her düğüm, onay kutusu ve canlı ilerleme çubuğu olan bir görevdir.
+Canlı ilerleme çubuğu olan görsel görev listeleri.
 
 ### 📅 Gantt Şemaları
-Bağımlılıklarla birlikte tam proje zaman çizelgeleri. Yapay zeka kullanarak haritanızı anında Gantt şemasına dönüştürün. Şirket raporlaması ve tez sunumları için idealdir.
-
----
-
-## Yapay Zeka Size Nasıl Yardımcı Olur?
-
-- **Zihin haritası oluşturma**: Proje açıklamasından.
-- **Akış şeması oluşturma**: Bir algoritmadan.
-- **Gantt şeması oluşturma**: Gerçek tarihler ve bağımlılıklarla.
-- **Mevcut haritaları iyileştirme**: Notlarınızı ve renklerinizi kaybetmeden.
-
----
-
-## Neden MindiMap?
-
-| Özellik | MindiMap | Diğer Araçlar |
-|---|---|---|
-| **Yerleşik Yapay Zeka** | Evet | Sadece eklenti |
-| **Gantt Şemaları** | Yerel | Yok |
-| **Tam RTL Desteği** | Mükemmel | Kısmi |
-| **Kripto Ödemeleri** | BTC & USDT | Sadece kart |
-| **Çevrimdışı Mod** | Evet | Yok |
-
----
+Bağımlılıklarla birlikte tam proje zaman çizelgeleri.
 
 ## Fiyatlandırma
-
-| Plan | Fiyat | Yapay Zeka Kullanımı |
-|---|---|---|
-| **Ücretsiz** | $0 | 2 |
-| **Bronz** | $5.99 / 30 gün | 60 |
-| **Gümüş** | $6.99 / 30 gün | 150 |
-| **Altın** | $17.99 / 90 gün | 400 |
-
-Bitcoin, USDT veya uluslararası kartlarla ödeme yapın.
+- **Ücretsiz:** 2 YZ kullanımı.
+- **Bronz:** $5.99 (60 kullanım).
+- **Gümüş:** $6.99 (150 kullanım).
+- **Altın:** $17.99 (400 kullanım).
 
 ---
-
-## Lisans
-Tescilli. Tüm hakları saklıdır.
+**Anahtar Kelimeler:** zihin haritası, akış şeması, gantt şeması, yapay zeka, miro alternatifi, görev yönetimi.
