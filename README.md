@@ -12,7 +12,7 @@ MindiMap is a browser-based visual thinking suite. It combines **mind maps**, **
 
 > **AI drafts it, you polish it.** Describe your project and MindiMap's AI builds the full structure -- nodes, branches, dependencies, and timelines -- in seconds.
 
-<img src="https://mindimap.com/assets/img/mindimap-animation-2.gif" alt="MindiMap AI generating a mind map" width="640" />
+<img src="https://mindimap.com/assets/img/mindimap-animation-2.gif" alt="MindiMap AI generating a mind map" width="400" />
 
 ---
 
