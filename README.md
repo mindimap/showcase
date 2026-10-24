@@ -12,7 +12,7 @@
 
 MindiMap is a browser-based visual thinking suite. It combines **mind maps**, **flowcharts**, **task management**, and **Gantt charts** in one editor, with an AI assistant that generates full diagrams from a single sentence. No installs, no plugins. Works offline. Ships in **9 languages** with full right-to-left support.
 
-<img src="screenshots/hero.gif" alt="MindiMap AI generating a mind map" width="480" />
+<img src="screenshots/hero.gif" alt="MindiMap AI generating a mind map" width="320" />
 
 ---
 

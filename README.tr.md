@@ -12,7 +12,7 @@
 
 MindiMap, tarayıcı tabanlı bir görsel düşünme aracıdır. Zihin haritalarını, akış şemalarını, görev yönetimini ve Gantt şemalarını tek bir editörde birleştirir. Yapay zeka asistanı, tek bir cümleden tam diyagramlar oluşturur. Çevrimdışı çalışır. 9 dili destekler.
 
-<img src="screenshots/hero.gif" alt="MindiMap Yapay Zekası" width="480" />
+<img src="screenshots/hero.gif" alt="MindiMap Yapay Zekası" width="320" />
 
 ---
 

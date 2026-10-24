@@ -12,7 +12,7 @@
 
 MindiMap 是一款基于浏览器的视觉思考工具。它将思维导图、流程图、任务管理和甘特图整合到一个编辑器中，并配有AI助手，可以从一句话生成完整的图表。无需安装，可离线使用，支持9种语言。
 
-<img src="screenshots/hero.gif" alt="MindiMap AI" width="480" />
+<img src="screenshots/hero.gif" alt="MindiMap AI" width="320" />
 
 ---
 
