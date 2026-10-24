@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="screenshots/hero.gif" alt="MindiMap Yapay Zekası" width="450" />
+  <img src="screenshots/hero.gif" alt="MindiMap Yapay Zekası" width="30%" />
 </p>
 
 ## MindiMap Nedir?
@@ -16,22 +16,24 @@ MindiMap, yapay zeka destekli bir görsel düşünme aracıdır. Zihin haritalar
 
 ## Temel Araçlar
 ### 🧠 Zihin Haritaları
-Beyin fırtınası ve planlama için radyal veya ağaç düzenleri.
+Beyin fırtınası için radyal düzenler.
 
 ### 📊 Akış Şemaları
 Algoritmaları görsel olarak tasarlayın.
 
 ### ☑ Görevler
-Canlı ilerleme çubuğu olan görsel görev listeleri.
+Canlı ilerleme çubuğu olan görev listeleri.
 
 ### 📅 Gantt Şemaları
-Bağımlılıklarla birlikte tam proje zaman çizelgeleri.
+Proje zaman çizelgeleri.
+
+## Galeri
+| Sürükle & Bırak | Yeniden Bağla |
+|---|---|
+| <img src="screenshots/drag.gif" width="300" /> | <img src="screenshots/reparent.gif" width="300" /> |
 
 ## Fiyatlandırma
 - **Ücretsiz:** 2 YZ kullanımı.
-- **Bronz:** $5.99 (60 kullanım).
-- **Gümüş:** $6.99 (150 kullanım).
-- **Altın:** $17.99 (400 kullanım).
-
----
-**Anahtar Kelimeler:** zihin haritası, akış şeması, gantt şeması, yapay zeka, miro alternatifi, görev yönetimi.
+- **Bronz:** $5.99.
+- **Gümüş:** $6.99.
+- **Altın:** $17.99.

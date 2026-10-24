@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="screenshots/hero.gif" alt="MindiMap AI generating a mind map" width="450" />
+  <img src="screenshots/hero.gif" alt="MindiMap AI generating a mind map" width="30%" />
 </p>
 
 ## What is MindiMap?
@@ -42,12 +42,25 @@ Visual checklists where every node is a task with a checkbox and a live progress
 ### 📅 Gantt Charts
 Full project timelines with milestones and dependencies. Instantly convert your mind map into a timeline using AI. Perfect for company reporting and thesis presentations.
 
+## Gallery & Tutorials
+
+| Drag & Drop Nodes | Reparent Nodes (Sub-trees) |
+|---|---|
+| <img src="screenshots/drag.gif" width="300" /> | <img src="screenshots/reparent.gif" width="300" /> |
+
+| AI Generator | Gantt Chart Progress |
+|---|---|
+| <img src="screenshots/ai-pill.png" width="300" /> | <img src="screenshots/gantt-progress.png" width="300" /> |
+
+| Study Plan (English) | Study Plan (Persian) |
+|---|---|
+| <img src="screenshots/study-plan-en.png" width="300" /> | <img src="screenshots/study-plan-fa.png" width="300" /> |
+
 ## AI Capabilities
 - **Create from scratch:** Generate mind maps, flowcharts, or Gantt charts from a single sentence.
 - **Smart improve:** Add, remove, or restructure existing nodes while preserving your custom notes, icons, and colors.
 
 ## Tech Stack (High-Level)
-
 | Layer | Technology |
 |---|---|
 | Backend | Server-side PHP API |
