@@ -91,12 +91,10 @@ Pay with **Bitcoin**, **USDT (TRC-20)**, or international cards via **YekPay**.
 
 | Layer | Technology |
 |---|---|
-| Frontend | Vanilla JS, Konva.js, CSS Grid/Flexbox |
-| Backend API | PHP 8.3 on LiteSpeed |
-| Auth | Supabase Auth with OTP |
-| AI | AvalAI (GPT-based) |
-| Payments | Blockonomics, TRC-20 watcher, YekPay |
-| Hosting | cPanel / LiteSpeed / Cloudflare |
+| Backend | Server-side PHP API |
+| Database | Secure hosted database |
+| Payments | Bitcoin, USDT, and card processing |
+| Hosting | Managed shared hosting with CDN |
 
 **Source code is proprietary.** This repository is a showcase, not the full codebase.
 
